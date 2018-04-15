@@ -1,0 +1,13 @@
+D:\Projects\DotnetCoreEgitim\AspNetCoreToDo\bin\Debug\netcoreapp2.0\app.db
+D:\Projects\DotnetCoreEgitim\AspNetCoreToDo\bin\Debug\netcoreapp2.0\AspNetCoreToDo.deps.json
+D:\Projects\DotnetCoreEgitim\AspNetCoreToDo\bin\Debug\netcoreapp2.0\AspNetCoreToDo.runtimeconfig.json
+D:\Projects\DotnetCoreEgitim\AspNetCoreToDo\bin\Debug\netcoreapp2.0\AspNetCoreToDo.runtimeconfig.dev.json
+D:\Projects\DotnetCoreEgitim\AspNetCoreToDo\bin\Debug\netcoreapp2.0\AspNetCoreToDo.dll
+D:\Projects\DotnetCoreEgitim\AspNetCoreToDo\bin\Debug\netcoreapp2.0\AspNetCoreToDo.pdb
+D:\Projects\DotnetCoreEgitim\AspNetCoreToDo\obj\Debug\netcoreapp2.0\AspNetCoreToDo.csproj.CoreCompileInputs.cache
+D:\Projects\DotnetCoreEgitim\AspNetCoreToDo\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+D:\Projects\DotnetCoreEgitim\AspNetCoreToDo\obj\Debug\netcoreapp2.0\AspNetCoreToDo.AssemblyInfoInputs.cache
+D:\Projects\DotnetCoreEgitim\AspNetCoreToDo\obj\Debug\netcoreapp2.0\AspNetCoreToDo.AssemblyInfo.cs
+D:\Projects\DotnetCoreEgitim\AspNetCoreToDo\obj\Debug\netcoreapp2.0\AspNetCoreToDo.dll
+D:\Projects\DotnetCoreEgitim\AspNetCoreToDo\obj\Debug\netcoreapp2.0\AspNetCoreToDo.pdb
+D:\Projects\DotnetCoreEgitim\AspNetCoreToDo\obj\Debug\netcoreapp2.0\AspNetCoreToDo.csprojResolveAssemblyReference.cache
